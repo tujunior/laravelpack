@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Sukanya\\Firstpack\\' => array($baseDir . '/src'),
+    'Laravelpack\\Packtu\\' => array($baseDir . '/src'),
     'Illuminate\\Support' => array($vendorDir . '/illuminate/support'),
 );

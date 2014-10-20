@@ -54,7 +54,7 @@ return array(
     'Illuminate\\Support\\SerializableClosure' => $vendorDir . '/illuminate/support/Illuminate/Support/SerializableClosure.php',
     'Illuminate\\Support\\ServiceProvider' => $vendorDir . '/illuminate/support/Illuminate/Support/ServiceProvider.php',
     'Illuminate\\Support\\Str' => $vendorDir . '/illuminate/support/Illuminate/Support/Str.php',
-    'Sukanya\\Firstpack\\Facades\\Testpack' => $baseDir . '/src/Sukanya/Firstpack/Facades/Testpack.php',
-    'Sukanya\\Firstpack\\FirstpackServiceProvider' => $baseDir . '/src/Sukanya/Firstpack/FirstpackServiceProvider.php',
-    'Sukanya\\Firstpack\\Testpack' => $baseDir . '/src/Sukanya/Firstpack/Testpack.php',
+    'Laravelpack\\Packtu\\Facades\\Packtutest' => $baseDir . '/src/Laravelpack/Packtu/Facades/Packtutest.php',
+    'Laravelpack\\Packtu\\PacktuServiceProvider' => $baseDir . '/src/Laravelpack/Packtu/PacktuServiceProvider.php',
+    'Laravelpack\\Packtu\\Packtutest' => $baseDir . '/src/Laravelpack/Packtu/Packtutest.php',
 );

@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b9d9faab18d43f9a2a5ac388007ee172",
+    "hash": "ab8d49d1008bc27b71b12d90f0eb48ed",
     "packages": [
         {
             "name": "illuminate/support",
@@ -50,7 +50,7 @@
             ],
             "authors": [
                 {
-                    "name": "Sukanya",
+                    "name": "Sukanya ",
                     "email": "tu.junior.x@gmail.com",
                     "homepage": "https://github.com/taylorotwell",
                     "role": "Creator of Laravel"
