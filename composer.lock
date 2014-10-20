@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "illuminate/support",
-            "version": "v4.1.30",
+            "version": "v4.2.30",
             "target-dir": "Illuminate/Support",
             "source": {
                 "type": "git",
@@ -33,7 +33,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.1-dev"
+                    "dev-master": "4.2-dev"
                 }
             },
             "autoload": {
